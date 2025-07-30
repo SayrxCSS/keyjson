@@ -1,17 +1,7 @@
 {
-  "ABC123XYZ": {
+  "SAYRX": {
     "used": false,
     "created": "2025-01-01",
     "user": null
   },
-  "DEF456UVW": {
-    "used": false,
-    "created": "2025-01-01", 
-    "user": null
-  },
-  "GHI789RST": {
-    "used": true,
-    "created": "2025-01-01",
-    "user": "user123"
-  }
 }
