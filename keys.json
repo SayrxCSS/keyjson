@@ -1,11 +1,17 @@
 {
-  "keys": {
-    "patreon_new_1": {
-      "used": false,
-      "created": "2025-01-30",
-      "type": "premium"
-    }
+  "ABC123XYZ": {
+    "used": false,
+    "created": "2025-01-01",
+    "user": null
   },
-  "version": "1.0",
-  "last_updated": "2025-01-30T04:55:00Z"
+  "DEF456UVW": {
+    "used": false,
+    "created": "2025-01-01", 
+    "user": null
+  },
+  "GHI789RST": {
+    "used": true,
+    "created": "2025-01-01",
+    "user": "user123"
+  }
 }
